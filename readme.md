@@ -2,9 +2,11 @@
 
 Este repositorio contiene los ejercicios realizados durante el curso [Full Stack Open](https://fullstackopen.com/es/) ofrecido por la Universidad de Helsinki.
 
+
 ## Descripción
 
 El bootcamp Full Stack Open es un programa integral que abarca desde el desarrollo frontend utilizando React, hasta el desarrollo backend con Node.js. A lo largo del curso, se cubren temas como el manejo de bases de datos, autenticación de usuarios, pruebas, y el despliegue de aplicaciones web.
+
 
 ## Estructura del Repositorio
 
@@ -31,8 +33,8 @@ fullstackopen/
 
 
 ## Recursos
-[Sitio Oficial del Curso](https://fullstackopen.com/es/) 
-[Repositorio del Curso en GitHub](https://github.com/veritocapito/fullstackopen) 
+- [Sitio Oficial del Curso](https://fullstackopen.com/es/) 
+- [Repositorio del Curso en GitHub](https://github.com/veritocapito/fullstackopen) 
 
 
 ## Contacto
